@@ -1,5 +1,6 @@
 # Healthcare-Project-using-Machine-learning
-This is a web based application using flask in which prediction is occurs on machine learning models
+This is a web based application using flask in which prediction is occurs on machine learning models.
+
 <img width="948" alt="image" src="https://github.com/2002kartik12/Healthcare-Project-using-Machine-learning/assets/110666936/e02da1a6-7bae-468a-aafc-e56b42ce18c5">
 
 This is a front page of the application.
